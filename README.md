@@ -65,7 +65,7 @@
 ## ☁ Cloud
 
 - [Filen](https://filen.io/) - End-to-End Encrypted cloud storage with 10GB free plan.
-- [pCloud](https://www.pcloud.com/) - Free 10GB cloud storage BUT End-to-End Encryption is a paid ad-on...😑 WHY ?
+- [pCloud](https://www.pcloud.com/) - Free 10GB cloud storage BUT End-to-End Encryption is a paid add-on...😑 WHY ?
 - [MEGA](https://mega.nz/) - Zero Knowledge Encrypted cloud storage with 20GB free plan, though with a bit of shady past.
 - [Ice Drive](https://icedrive.net/) - Another privacy focused cloud storage. Free 10GB storage and this uses TwoFish Encryption instead of AES, pretty cool !
 - [Hivenet](https://www.hivenet.com/) - Decentralized cloud compute and cloud storage. 10GB free cloud storage.
@@ -91,7 +91,7 @@
 - [scoop](https://scoop.sh/) - A command-line installer for Windows, super useful.
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Uninstall apps down to the registry that too for free, Its one of my personal favorite !
 - [Display Driver Uninstaller (DDU)](https://www.guru3d.com/download/display-driver-uninstaller-download/) - A must have, used to uninstall display drivers.
-- [WinRaR](https://www.win-rar.com/start.html?&L=0) - The Goat of the file compressor and zipping programs with unlimited day free trail...😜
+- [WinRaR](https://www.win-rar.com/start.html?&L=0) - The Goat of the file compressor and zipping programs with unlimited day free trial...😜
 - [7-zip](https://www.7-zip.org/) - Another incredibly good file zipping and compression software.
 - [SCLI](https://github.com/nexus949/scli/releases/tag/v1.0) - Open source command Line shortcut opener made by Me...😁.
 <br>
