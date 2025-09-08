@@ -38,12 +38,14 @@
 - [Firefox](https://www.firefox.com/en-US/) - The most well know non chromium browser, pretty good.
 - [Mullvad Browser](https://mullvad.net/en/browser) - A good privacy focused web browser.
 - [Tor](https://www.torproject.org/) - The best privacy browser, no tracking, IP masking and anonymity.
+<br>
 
 ## 🔍 Search Engines
 
 - [Brave Search](search.brave.com) - Strong privacy, no tracking and ad-free search engine.
 - [Startpage](https://www.startpage.com/) -  Privacy search powered by Google results, but strips all trackers and logs.
 - [DuckDuckGo](https://duckduckgo.com/) - Popular privacy-first search engine, simple UI with zero user profiling.
+<br>
 
 ## 🌎 Web Applications
 
@@ -52,11 +54,13 @@
 - [Pi7 Image Compressor](https://image.pi7.org/compress-image-to-50kb) - Variable size image compressor.
 - [Sejda](https://www.sejda.com/) - Okay-ish PDF editor but with feature to edit PDF contents.
 - [ILovePDF](https://www.ilovepdf.com/) - My go to PDF Editor of choice.
+<br>
 
 ## 📧 Email Services
 
 - [Proton Mail](https://proton.me/) - Proton Mail or rather the whole proton suite is privacy focused and offers very good features and a generous free tier.
 - [Tuta Mail](https://tuta.com/) - Another Privacy first email service alongside a calendar with a minimal UI and generous free tier.
+<br>
 
 ## ☁ Cloud
 
@@ -67,6 +71,7 @@
 - [Hivenet](https://www.hivenet.com/) - Decentralized cloud compute and cloud storage. 10GB free cloud storage.
 - [Terabox](https://terabox.com/) - 1TB of free cloud storage. Although not recommended for personal stuff like photos and documents. I upload old games here...😁.
 - [Proton Drive](https://proton.me/drive) - Part of the proton suite, free 5GB Storage, End-to-End Encrypted.
+<br>
 
 ## 📐 Code Editors
 
@@ -75,6 +80,7 @@
 - [Vim](https://www.vim.org/) - The legendary terminal text editor. Minimal, insanely fast and powerful !
 - [Codepen](https://codepen.io/) - Web based frontend code editor. HTML, CSS and JS.
 - [Online GDB](https://www.onlinegdb.com/) - Online Code editor and Debugger, supports maximum mainstream languages.
+<br>
 
 ## 🔨 Utilities
 
@@ -88,6 +94,7 @@
 - [WinRaR](https://www.win-rar.com/start.html?&L=0) - The Goat of the file compressor and zipping programs with unlimited day free trail...😜
 - [7-zip](https://www.7-zip.org/) - Another incredibly good file zipping and compression software.
 - [SCLI](https://github.com/nexus949/scli/releases/tag/v1.0) - Open source command Line shortcut opener made by Me...😁.
+<br>
 
 ## 💪🏼 Benchmarking and Monitoring
 
@@ -102,12 +109,14 @@
 - [HW Monitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring program that displays temperatures, power, clock speeds and other information.
 - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Free open source Hardware monitoring software just like HW Monitor.
 - [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - Simple Disk Benchmarking Software. Check HDD and SSD speeds.
+<br>
 
 ## 🔑 Password Managers
 
 - [Bitwarden](https://bitwarden.com/) - One of the best password managers out there, free and open source powered with AES Encryption and E2E Encryption.
 - [Proton Pass](https://proton.me/pass) - Part of the Proton Suite a very good password manager with E2E Encryption.
 - [KeepassXC](https://keepassxc.org/) - An open source local storage password manager with encryption selection.
+<br>
 
 ## 🎥 Recording and Editing Applications
 
@@ -116,6 +125,7 @@
 - [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve) - The industry grade free video editing software and direct competitor to Premiere Pro.
 - [Gimp](https://www.gimp.org/) - Free and Open source feature-rice image editor.
 - [photoeditor.com](https://www.photoeditor.com/) - Web based photo editor, not the best but gets the job done.
+<br>
 
 ## 💻 Productivity Applications
 
@@ -123,6 +133,7 @@
 - [Trello](https://trello.com/) - A project Management Tool, organized everything into "cards" for better management.
 - [Libre Office Suite](https://www.libreoffice.org/) - An incredibly powerful, useful and open source suite of applications used to create and edit documents, spreadsheets, presentations, etc. The best equivalent to Microsoft Office Suite.
 - [Flow Launcher](https://www.flowlauncher.com/) - Quick File Search & App Launcher for Windows
+<br>
 
 ## 🥪 Customization Tools and Library
 
@@ -133,3 +144,4 @@
 - [Font Awesome](https://fontawesome.com/) - Icons for the web, delivered through CDN.
 - [Google Fonts](https://fonts.google.com/) - Large library of font specimens to use.
 - [Devicons](https://devicon.dev/) - Free Icons for devs to use delivered through CDN.
+<br>
