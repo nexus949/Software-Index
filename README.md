@@ -94,6 +94,7 @@
 - [WinRaR](https://www.win-rar.com/start.html?&L=0) - The Goat of the file compressor and zipping programs with unlimited day free trial...😜
 - [7-zip](https://www.7-zip.org/) - Another incredibly good file zipping and compression software.
 - [SCLI](https://github.com/nexus949/scli/releases/tag/v1.0) - Open source command Line shortcut opener made by Me...😁.
+- [Rufus](https://rufus.ie/en/) - Bootable Media Creation Tool, my personal favorite.
 <br>
 
 ## 💪🏼 Benchmarking and Monitoring
