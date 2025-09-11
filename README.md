@@ -85,7 +85,7 @@
 ## 🔨 Utilities
 
 - [TranslucentTB](https://translucenttb.github.io/) - A lightweight utility that makes Windows taskbar transparent.
-- [Shutup10++](https://www.oo-software.com/en/shutup10) - A Windows utility that gives full control over what data windows should use and what it should not.
+- [Shutup10++](https://www.oo-software.com/en/shutup10) - A Windows utility that gives full control over data, prevents unwanted data collection by Windows.
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Ad skip/block for Spotify, Super handy !
 - [Cryptomator](https://cryptomator.org/) - Free and open source data encryption software.
 - [scoop](https://scoop.sh/) - A command-line installer for Windows, super useful.
@@ -95,6 +95,7 @@
 - [7-zip](https://www.7-zip.org/) - Another incredibly good file zipping and compression software.
 - [SCLI](https://github.com/nexus949/scli/releases/tag/v1.0) - Open source command Line shortcut opener made by Me...😁.
 - [Rufus](https://rufus.ie/en/) - Bootable Media Creation Tool, my personal favorite.
+- [Syncthing](https://syncthing.net/) - Peer to Peer folder syncing Tool, great for syncing files across devices or send files.
 <br>
 
 ## 💪🏼 Benchmarking and Monitoring
