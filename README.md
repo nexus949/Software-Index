@@ -95,7 +95,6 @@
 - [7-zip](https://www.7-zip.org/) - Another incredibly good file zipping and compression software.
 - [SCLI](https://github.com/nexus949/scli/releases/tag/v1.0) - Open source command Line shortcut opener made by Me...😁.
 - [Rufus](https://rufus.ie/en/) - Bootable Media Creation Tool, my personal favorite.
-- [Syncthing](https://syncthing.net/) - Peer to Peer folder syncing Tool, great for syncing files across devices or send files.
 <br>
 
 ## 💪🏼 Benchmarking and Monitoring
@@ -127,6 +126,7 @@
 - [Da Vinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve) - The industry grade free video editing software and direct competitor to Premiere Pro.
 - [Gimp](https://www.gimp.org/) - Free and Open source feature-rice image editor.
 - [photoeditor.com](https://www.photoeditor.com/) - Web based photo editor, not the best but gets the job done.
+- [Avidemux](https://avidemux.sourceforge.net/) - Free and open source tool for simple video cutting, filtering, and encoding. Ideal for quick edits without re-encoding.
 <br>
 
 ## 💻 Productivity Applications
@@ -134,7 +134,7 @@
 - [Obsidian](https://obsidian.md/) - Best Note taking app, markdown heaven with plugin support. Everything is stored locally so no concerns on privacy.
 - [Trello](https://trello.com/) - A project Management Tool, organized everything into "cards" for better management.
 - [Libre Office Suite](https://www.libreoffice.org/) - An incredibly powerful, useful and open source suite of applications used to create and edit documents, spreadsheets, presentations, etc. The best equivalent to Microsoft Office Suite.
-- [Flow Launcher](https://www.flowlauncher.com/) - Quick File Search & App Launcher for Windows
+- [Flow Launcher](https://www.flowlauncher.com/) - Quick File Search & App Launcher for Windows.
 <br>
 
 ## 🥪 Customization Tools and Library
